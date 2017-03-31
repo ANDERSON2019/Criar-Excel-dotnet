@@ -46,7 +46,7 @@ Module Module1
         'BUSCAR DADOS NO BANCO - UTILIZANDO PROCEDURE SEM PARAMETROS 
         obDal.ClearParameters()
         DT2.Dispose()
-        DT2 = obDal.RetornaTabela("dbo.BuscaRelatorioBit", "SYSEG")
+        DT2 = obDal.RetornaTabela("Nome da procedure", "Nome do banco")
 
 
         'ABRIR PLANILHA DE RETORNO 
