@@ -1,0 +1,46 @@
+C:\Users\anderson.sousa\Desktop\relatorio bit\relatorio bit\bin\Debug\relatorio bit.exe.config
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\bin\Debug\relatorio bit.exe.config
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.vbproj.ResolveComReference.cache
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\obj\Debug\relatorio_bit.Resources.resources
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.vbproj.GenerateResource.Cache
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\bin\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\bin\Debug\relatorio bit.pdb
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\bin\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.pdb
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\bin\Debug\relatorio bit.exe.config
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.vbproj.ResolveComReference.cache
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.pdb
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\bin\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\bin\Debug\relatorio bit.pdb
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\bin\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\obj\Debug\relatorio_bit.Resources.resources
+C:\Users\anderson.sousa\Desktop\TRABALHOS\Nova pasta\robos\relatorio bit\relatorio bit\obj\Debug\relatorio bit.vbproj.GenerateResource.Cache
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\bin\Debug\relatorio bit.exe.config
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.vbproj.ResolveComReference.cache
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.pdb
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\bin\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\bin\Debug\relatorio bit.pdb
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\bin\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio_bit.Resources.resources
+C:\Users\anderson.sousa\Desktop\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.vbproj.GenerateResource.Cache
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\bin\Debug\relatorio bit.exe.config
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.vbproj.ResolveComReference.cache
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.pdb
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\bin\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\bin\Debug\relatorio bit.pdb
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\bin\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio_bit.Resources.resources
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\relatorio bit\obj\Debug\relatorio bit.vbproj.GenerateResource.Cache
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\Robo dotnet\relatorio bit\bin\Debug\relatorio bit.exe.config
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\Robo dotnet\relatorio bit\obj\Debug\relatorio bit.vbproj.ResolveComReference.cache
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\Robo dotnet\relatorio bit\obj\Debug\relatorio bit.exe
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\Robo dotnet\relatorio bit\obj\Debug\relatorio bit.xml
+C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\robo_relatorio_bit\relatorioBit\Robo dotnet\relatorio bit\obj\Debug\relatorio bit.pdb
