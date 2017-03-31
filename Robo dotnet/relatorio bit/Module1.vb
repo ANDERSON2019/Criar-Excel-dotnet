@@ -40,7 +40,7 @@ Module Module1
         Dim DAT_RETORNO_AGENTE As String = ""
         Dim COD_AGENTE As String = ""
         Dim COD_RETORNO As String = ""
-        Dim Diretorio As String = "C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\Relatorio BIT\geradosPeloRobo\teste"
+        Dim Diretorio As String = "caminho que sera salvo o arquivo, com nome do arquivo"
 
 
         'BUSCAR DADOS NO BANCO - UTILIZANDO PROCEDURE SEM PARAMETROS 
@@ -50,7 +50,7 @@ Module Module1
 
 
         'ABRIR PLANILHA DE RETORNO 
-        xlWorkBook = xlApp.Workbooks.Open("C:\Users\anderson.sousa\Desktop\robos\TRABALHOS\Relatorio BIT\modelo\Arrecadação BIT.xlsx")
+        xlWorkBook = xlApp.Workbooks.Open("caminho do excel formatado")
 
         'SELECIONAR ABA
         xlworkSheet = xlWorkBook.Sheets("Arrecadação BIT")
